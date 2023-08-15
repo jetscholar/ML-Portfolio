@@ -24,8 +24,8 @@ This Portfolio is a demonstration of various machine learning techniques.
 4. CartPole
 
 ### Essay
-5. Title 2: "Uncovering Hidden Patterns: Exploring Unsupervised Learning in Software 
-Engineering"
+5. [Title 2: "Uncovering Hidden Patterns: Exploring Unsupervised Learning in Software 
+Engineering"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9EqkJHjGtfgLm9FZUBhERSWiLO6QvOHTzJQBDhNg?e=xGetKJ)
 
 
 ## Built With
@@ -40,4 +40,10 @@ Engineering"
 
 ## References
 
-<!-- TODO: List any blog posts, tutorials or plugins that you may have used to complete the project. Only list those that had a significant impact. Obviously, we all 'Google' stuff while working on our things, but maybe something in particular stood out as a 'major contributor' to your skill set for this project. -->
+- [Cart Pole Control Environment in OpenAI Gym](https://aleksandarhaber.com/cart-pole-control-environment-in-openai-gym-gymnasium-introduction-to-openai-gym/) - Aleksandar Haber
+- [Markdown Syntax](https://wilsonmar.github.io/markdown-text-for-github-from-html/) - Learn your md
+- [Markdown Badge List](https://github.com/Ileriayo/markdown-badges) - Style your md with a badge
+- [One Direction](https://www.youtube.com/watch?v=AsmHz9JCU4M) - Coding Music?
+- [Twent-One Pilots](https://www.youtube.com/watch?v=pXRviuL6vMY) - Getting better...
+- [Ultimate Jupyter NB Flexes](https://noteable.io/blog/jupyter-notebook-shortcuts-boost-productivity/#:~:text=The%20shortcut%20to%20add%20a,cell%2C%20use%20the%20shortcut%20B.) - Flex correctly
+
