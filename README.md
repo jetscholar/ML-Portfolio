@@ -13,15 +13,18 @@ This Portfolio is a demonstration of various machine learning techniques.
 
 ## Project Options
 
+*insert option descriptions below each item*
+
 ### Supervised Learning Techniques
 1. [Mark Predictor](MarkPredictor/StudentCopy.ipynb) 
+    
 2. [K-NN](KNN/KNN-Diabetes/Predict%20Diabetes.ipynb)
 
 ### Unsupervised Learning Technique
 3. [K-Means](KMeans/KMeans.ipynb)
 
 ### Reinforcement Learning
-4. CartPole
+4. [CartPole](CartPole/CartPole-v1.ipynb)
 
 ### Essay
 5. [Title 2: "Uncovering Hidden Patterns: Exploring Unsupervised Learning in Software 
