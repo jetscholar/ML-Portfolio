@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Project Options](#project-options)
 - [Built With](#built-with)
+- [Further Reading](#further-reading)
 - [References](#references)
 
 ## Overview
@@ -40,6 +41,16 @@ Engineering"](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUXQQX9E
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+## Further Reading
+
+- [Introduction to AI - Course Guide](https://cgsacteduau.sharepoint.com/:w:/s/cgssharedfolders/EUlW1KFBKzJGskD936SUUCMBLgqp_OeB3nzkrVs3cELybA?e=lFQruw) - Draft Copy
+- [What is Machine Learning](https://www.mathworks.com/discovery/machine-learning.html)
+- [Understanding Machine Learning & Deep Learning](https://dltlabs.medium.com/understanding-machine-learning-deep-learning-f5aa95264d61)
+- [Q-Learning Algorithm](https://aleksandarhaber.com/q-learning-in-python-with-tests-in-cart-pole-openai-gym-environment-reinforcement-learning-tutorial/)
+- [Epsilon-Greedy Algorithm](https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/)
+
 
 ## References
 
